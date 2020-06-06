@@ -1,7 +1,7 @@
 Converts exported Rabobank CSV-file to HLedger.
 
 * Usage
-Place files rabobankcsv and rabobankcsv.jar in a subdirectory; make rabobankcsv executable and add the subdirectory to your path (if its not already in there). Also a Java runtime environment (JRE) is required.
+Place files =rabobankcsv= and =rabobankcsv.jar= in a subdirectory; make =rabobankcsv= executable and add the subdirectory to your path (if its not already in there). Also a Java runtime environment (JRE) is required.
 
 * Releases:
 
