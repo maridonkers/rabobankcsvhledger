@@ -1,0 +1,9 @@
+Converts exported Rabobank CSV-file to HLedger.
+
+* Releases:
+
+|  ID | URL                                                                |
+|-----+--------------------------------------------------------------------|
+| 0.1 | https://github.com/maridonkers/rabobankcsvhledger/releases/tag/0.1 |
+|     |                                                                    |
+
